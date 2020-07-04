@@ -88,12 +88,3 @@ test:
 #   
 #   
 #
-production:
-  host: localhost
-  adapter:  postgresql
-  encoding: unicode
-  database: shopbiz
-  username: postgres
-  password: shop111
-  pool: 5
-  timeout: 5000 
